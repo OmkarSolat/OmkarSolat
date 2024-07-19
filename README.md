@@ -19,7 +19,7 @@ I'm a final year computer engineering student passionate about data science,data
   - Twitter/X: https://x.com/OmkarSolat_24?t=G7bS1lmJ366a7PZgQC2QbA&s=08
 
 ## Skills
-- **Programming Languages:** Python,C++,R,JS
+- **Programming Languages:** Python , C++ , R , JS
 - **Data Science & Analysis:** Data analysis, machine learning, Power BI, Tableau,SQL,EXCEL,AI
 - **Soft Skills:** Teamwork, leadership, time management, passion for technology
 
