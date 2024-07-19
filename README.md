@@ -40,6 +40,12 @@ I'm a final year computer engineering student passionate about data science,data
 - Cloud Infrastructure(AWS)
 
 
+<h1>Connect with me</h1>
+
+facebook : https://m.facebook.com/proogramminghub<br>
+instagram : @omkar.solat<br>
+twitter :  https://x.com/OmkarSolat_24?t=y2Wsc8qU0enmVMAWz_J26g&s=08<br>
+linkedin : https://www.linkedin.com/in/omkar-solat-65191b26a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app<br>
 <!---
 OmkarSolat/OmkarSolat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
