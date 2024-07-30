@@ -31,6 +31,7 @@ I'm a final year computer engineering student passionate about data science,data
 ## Certifications
 - Data Science
 - Data Analysis
+- Machine Learning
 - Pyhton
 - Claude AI
 - IOT(NPTEL)
