@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @OmkarSolat
 
 ## About Me
-I'm a final year computer engineering student passionate about data science,data analysis, machine learning, and AI. I have hands-on experience in Python, data analysis, and creating impactful data-driven solutions.
+I'm a computer engineering graduate, passionate about data science,data analysis, machine learning, and AI. I have hands-on experience in Python, data analysis, and creating impactful data-driven solutions.
 
 ## Interests
 - 👀 I’m interested in data science,data analysis, machine learning, AI, and innovative tech solutions.
